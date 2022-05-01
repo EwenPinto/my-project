@@ -1,0 +1,1 @@
+another file named file6.txt inside new files folder
