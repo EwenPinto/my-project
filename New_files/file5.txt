@@ -1,3 +1,5 @@
 New file inside new files folder
 
 new line was added
+
+This line was changed in br-3 branch
