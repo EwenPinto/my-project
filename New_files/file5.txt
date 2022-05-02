@@ -2,4 +2,4 @@ New file inside new files folder
 
 new line was added
 
-changes done in master branch
+This line was changed in br-3 branch

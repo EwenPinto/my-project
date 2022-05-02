@@ -1,1 +1,1 @@
-new file file7.txt inside myproject folder and was modified in master branch
+new file file7.txt inside myproject folder and was modified in br-3 branch
